@@ -1,4 +1,4 @@
-name: Go CI (Teletowa)
+name: Go CI (Teletowa Build App And Testing App)
 
 on:
     push:
